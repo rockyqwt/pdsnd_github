@@ -1,17 +1,27 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### Created May 31st 2023
 
-### Date created
-Include the date you created this project and README file.
+### Bikeshare Program Description 
+The bikeshare.py program explores bike share data from three different cities; Chicago, New York City, and Washington.  The program uses an iterative prompt to calculate descriptive statistics that can be filtered by city, month and day of the week. Statisics computed include:
+* Popular times of travel
+* Popular stations and trip
+* Trip duration 
+* User info 
 
-### Project Title
-Replace the Project Title
+### System Requirements
+* Python 3, NumPy and pandas installed on your system. 
+ 
 
-### Description
-Describe what your project is about and what it does
+### Installation Instructions 
+* Clone the repo 
+* Download the csv data from [motivate] (https://www.motivateco.com/) and move the data in the same directory as the Bikeshare.py file. 
+ 
 
-### Files used
-Include the files used
+### Included Files 
+* README.txt 
+* Bikeshare.py 
+ 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Resources 
+* [Sack Overflow] (https://stackoverflow.com/) 
+* [motivate] (https://www.motivateco.com/) 
 
