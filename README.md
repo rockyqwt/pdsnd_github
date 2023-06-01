@@ -13,7 +13,7 @@ The bikeshare.py program explores bike share data from three different cities; C
 
 ### Installation Instructions 
 * Clone the repo 
-* Download the csv data from [motivate] (https://www.motivateco.com/) and move the data in the same directory as the Bikeshare.py file. 
+* Download the csv data from [motivate](https://www.motivateco.com/) and move the data in the same directory as the Bikeshare.py file. 
  
 
 ### Included Files 
@@ -22,6 +22,6 @@ The bikeshare.py program explores bike share data from three different cities; C
  
 
 ### Resources 
-* [Sack Overflow] (https://stackoverflow.com/) 
-* [motivate] (https://www.motivateco.com/) 
+* [Sack Overflow](https://stackoverflow.com/) 
+* [motivate](https://www.motivateco.com/) 
 
